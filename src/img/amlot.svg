@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="50px" viewBox="0 0 70 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>D5F69FE2-8C44-403C-BAAD-4A8140FD34A3</title>
+    <defs>
+        <linearGradient x1="14.625257%" y1="20.2820674%" x2="106.298227%" y2="63.7750387%" id="linearGradient-1">
+            <stop stop-color="#00B3B1" offset="0%"></stop>
+            <stop stop-color="#24E7C8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="HOME" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD---1920-1200" transform="translate(-1407.000000, -910.000000)" fill="url(#linearGradient-1)">
+            <g id="Model3" transform="translate(480.000000, 650.000000)">
+                <g id="Group-4" transform="translate(377.000000, 58.000000)">
+                    <g id="001" transform="translate(484.000000, 202.000000)">
+                        <g id="ICONS-/-GRAPH" transform="translate(66.000000, 0.000000)">
+                            <path d="M68.35,47.7272727 L68.35,0 L56.85,0 L56.85,47.7272727 L49.95,47.7272727 L49.95,11.3636364 L38.45,11.3636364 L38.45,47.7272727 L31.55,47.7272727 L31.55,22.7272727 L20.05,22.7272727 L20.05,47.7272727 L13.15,47.7272727 L13.15,34.0909091 L1.65,34.0909091 L1.65,47.7272727 L0.5,47.7272727 L0.5,50 L69.5,50 L69.5,47.7272727 L68.35,47.7272727 Z M59.15,2.27272727 L66.05,2.27272727 L66.05,47.7272727 L59.15,47.7272727 L59.15,2.27272727 Z M40.75,13.6363636 L47.65,13.6363636 L47.65,47.7272727 L40.75,47.7272727 L40.75,13.6363636 Z M22.35,25 L29.25,25 L29.25,47.7272727 L22.35,47.7272727 L22.35,25 Z M3.95,36.3636364 L10.85,36.3636364 L10.85,47.7272727 L3.95,47.7272727 L3.95,36.3636364 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
